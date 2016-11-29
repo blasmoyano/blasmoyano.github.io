@@ -1,0 +1,109 @@
+body{
+	background:#34495E;
+	color: white;
+}
+
+p.first_title {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size:24px;
+    color: #34495E;
+	background:#EB3824;
+	width:73px;
+}
+
+p.first_title_idioma{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:24px;
+    color: #34495E;
+	background:#EB3824;
+	width:78px;
+}
+
+p.first_title_Skills{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:24px;
+    color: #34495E;
+	background:#EB3824;
+	width:63px;
+}
+p.first_title_cursos{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:24px;
+    color: #34495E;
+	background:#EB3824;
+	width:263px;
+}
+p.first_title_educacion{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:24px;
+    color: #34495E;
+	background:#EB3824;
+	width:123px;
+}
+p.first_title_trabajo{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:24px;
+    color: #34495E;
+	background:#EB3824;
+	width:86px;
+}
+
+#ualabi-titulo{
+margin-top:20px;
+margin-bottom:20px;
+}
+
+#ualabi-descripcion{
+margin-top:15%;
+}
+
+#ualabi-address{margin-top:10px;}
+
+
+
+.glyphicon-sunglasses{font-size:25px;}
+
+.ualabi-completo{ 
+color:#EB3824;
+}
+
+.ualabi-incompleto{ 
+color:#FC7C59;
+}
+
+#slide-1 {    
+	/*background:#F0603B;*/
+	background-image: url('assets/img/lineal1.jpg');
+    background-position: center bottom;
+    width: 100%;
+    z-index: 1000;
+    height: 250px;
+    vertical-align: middle;  
+    position: relative;
+    overflow: hidden;
+    background-position: center center;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+#slide-1 img{
+margin:4% auto auto 50% ;
+width:220px;
+ }
+ 
+#slide-1 h1{
+font-size:58px;
+font-family: 'Pacifico', cursive;
+margin:80px auto auto auto ;
+}
+#slide-1 small{
+font-size:15px;
+font-family: 'Russo One', sans-serif;
+letter-spacing:16px;
+}
