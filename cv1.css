@@ -35,8 +35,19 @@ p.first_title_cursos{
     font-size:24px;
     color: #34495E;
 	background:#EB3824;
-	width:263px;
+	width:83px;
 }
+
+p.first_title_certificacion{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:24px;
+    color: #34495E;
+	background:#EB3824;
+	width:172px;
+}
+
+
 p.first_title_educacion{
 	margin-top: 20px;
     font-weight: bold;
